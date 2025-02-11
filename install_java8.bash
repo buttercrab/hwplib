@@ -2,6 +2,7 @@
 
 # Update package lists
 sudo apt update -y
+sudo apt upgrade -y
 
 # Install Java 8 (OpenJDK)
 sudo apt install -y openjdk-8-jdk
